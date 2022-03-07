@@ -425,12 +425,12 @@
   "resolved" "https://registry.npmjs.org/@pixi/compressed-textures/-/compressed-textures-6.2.2.tgz"
   "version" "6.2.2"
 
-"@pixi/constants@>=5", "@pixi/constants@6.2.2":
+"@pixi/constants@^6.0.0", "@pixi/constants@>=5", "@pixi/constants@6.2.2":
   "integrity" "sha512-BKSoj/5SI+pQEatuCG5kXXWtCZmZZNMhfhXeqvYO/WNZ+LDxm6F4pllf0t7KjGs1ZBpNxVf6fyngF9Q5r3MgJQ=="
   "resolved" "https://registry.npmjs.org/@pixi/constants/-/constants-6.2.2.tgz"
   "version" "6.2.2"
 
-"@pixi/core@>=5", "@pixi/core@6.2.2":
+"@pixi/core@^6.0.0", "@pixi/core@>=5", "@pixi/core@6.2.2":
   "integrity" "sha512-XAqgdJ1w9k1ZUBXECm19rcnN2ngm+tOP74HkGw4qQay0biM3JS+wtX4fWQmZNGr8krf6lJrNbsghbtUy70uUaw=="
   "resolved" "https://registry.npmjs.org/@pixi/core/-/core-6.2.2.tgz"
   "version" "6.2.2"
@@ -450,10 +450,20 @@
   "resolved" "https://registry.npmjs.org/@pixi/filter-alpha/-/filter-alpha-6.2.2.tgz"
   "version" "6.2.2"
 
+"@pixi/filter-ascii@^4.1.5":
+  "integrity" "sha512-zrknFA1qM36IXYGmDmTa/chwU2bt/Q4R2N/rs3q7T8wFHS+PkbWhj2Juuy6TQ7OpQZE2t3I6JQL/zgA5vvXzDg=="
+  "resolved" "https://registry.npmjs.org/@pixi/filter-ascii/-/filter-ascii-4.1.5.tgz"
+  "version" "4.1.5"
+
 "@pixi/filter-blur@6.2.2":
   "integrity" "sha512-ApFqn2fMIipr3mRp/8dZ74qraGGzzPO/EzvltDqJLru9vGlbX6dKLXZ6w5H8D/uN6aQW1e4N1Nrtzk5mvJVQ3g=="
   "resolved" "https://registry.npmjs.org/@pixi/filter-blur/-/filter-blur-6.2.2.tgz"
   "version" "6.2.2"
+
+"@pixi/filter-color-map@^4.1.5":
+  "integrity" "sha512-L7cAM/5G0JKz8cJCFSDWageQonC8iG7eEvEyhz/L/ENqWI7pg2LIldqvK9vIc2HE9HjvkdoDQAb4vfm3OhMHkA=="
+  "resolved" "https://registry.npmjs.org/@pixi/filter-color-map/-/filter-color-map-4.1.5.tgz"
+  "version" "4.1.5"
 
 "@pixi/filter-color-matrix@6.2.2":
   "integrity" "sha512-fQWbtKFWV29jKkq4d6TknEfQ5sF5OxcbJeZo0HJmgoV3FLZ0t21XE991CFI/TqDBo8U3wzUPZVbXxiFoDKmJ8w=="
@@ -469,6 +479,11 @@
   "integrity" "sha512-e4qekMlsiEcjV0JRoqH3b34sk8yzT4jsROYPHzk0IiafE+nNNcF3vQmcmnfC0aGIyODzmNdzFLjlFkRRSviydA=="
   "resolved" "https://registry.npmjs.org/@pixi/filter-fxaa/-/filter-fxaa-6.2.2.tgz"
   "version" "6.2.2"
+
+"@pixi/filter-glitch@^4.1.5":
+  "integrity" "sha512-x7l7XbrLqCoScYfRZmy/x1/KXOGXWpf7a4fcygc+n+jIm/IFwA93KvSJx9reBQzcONl5JXBOJVnFeLYcjP5J3w=="
+  "resolved" "https://registry.npmjs.org/@pixi/filter-glitch/-/filter-glitch-4.1.5.tgz"
+  "version" "4.1.5"
 
 "@pixi/filter-noise@6.2.2":
   "integrity" "sha512-Jp4L6winS6ZGKpp76x3JyfEWnUMY44fQ90Ts3R3vKkZZFNDd3T4uisZ7YwvDKOhmSo5hY3lQkXaCg/YO5feXbw=="
@@ -495,7 +510,7 @@
   "resolved" "https://registry.npmjs.org/@pixi/loaders/-/loaders-6.2.2.tgz"
   "version" "6.2.2"
 
-"@pixi/math@6.2.2":
+"@pixi/math@^6.0.0", "@pixi/math@6.2.2":
   "integrity" "sha512-TtsaooRRMc/WAZ4LKUDhP/d14BZElLjRNa2gopwTKUtrDa1KvzAMr8WJ8P+gaXl4DJ8B/MlgESdPhRUqVSUw0A=="
   "resolved" "https://registry.npmjs.org/@pixi/math/-/math-6.2.2.tgz"
   "version" "6.2.2"

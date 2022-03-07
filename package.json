@@ -91,6 +91,9 @@
     "typescript": "~4.5.4"
   },
   "dependencies": {
+    "@pixi/filter-ascii": "^4.1.5",
+    "@pixi/filter-color-map": "^4.1.5",
+    "@pixi/filter-glitch": "^4.1.5",
     "@pixi/gif": "^1.0.2",
     "electron-squirrel-startup": "^1.0.0",
     "johnny-five": "^2.1.0"
